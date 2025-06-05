@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Python",
+    "question": "What is a list in Python?",
+    "answer": "A list is a collection of ordered, changeable items. It allows duplicate members."
+  },
+  {
+    "subject": "Python",
+    "question": "What is a dictionary in Python?",
+    "answer": "A dictionary is a collection of key-value pairs, used to store data values like a map."
+  },
+  {
+    "subject": "AI",
+    "question": "What is Artificial Intelligence?",
+    "answer": "AI is the simulation of human intelligence in machines programmed to think and learn."
+  },
+  {
+    "subject": "Big Data",
+    "question": "What are the 5 V's of Big Data?",
+    "answer": "Volume, Velocity, Variety, Veracity, and Value."
+  },
+  {
+    "subject": "Cloud Computing",
+    "question": "What is Cloud Computing?",
+    "answer": "Cloud Computing delivers computing services like servers, storage, databases over the Internet."
+  },
+  {
+    "subject": "IoT",
+    "question": "What is Internet of Things (IoT)?",
+    "answer": "IoT is a system of interrelated physical devices that can collect and transfer data over the Internet."
+  },
+  {
+    "subject": "Blockchain",
+    "question": "What is Blockchain?",
+    "answer": "Blockchain is a distributed ledger technology that records transactions securely and immutably."
+  },
+  {
+    "subject": "Pandas",
+    "question": "What is Pandas used for in Python?",
+    "answer": "Pandas is used for data manipulation and analysis. It provides data structures like DataFrame."
+  },
+  {
+    "subject": "Matplotlib",
+    "question": "What is Matplotlib in Python?",
+    "answer": "Matplotlib is a library used for creating static, animated, and interactive visualizations in Python."
+  }
+]
